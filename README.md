@@ -32,7 +32,7 @@ Passionate about turning data into insights and building intelligent systems.
 ---
 
 ## 📈 **Progress**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bhargavvv412&theme=dark)  
+![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com?user=Bhargavvv412&theme=dark](https://github-readme-streak-stats.herokuapp.com/?user=Bhargavvv412&theme=dark))  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhargavvv412&show_icons=true&theme=radical)  
 
 ---
