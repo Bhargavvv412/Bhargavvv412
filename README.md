@@ -8,7 +8,6 @@ Passionate about turning data into actionable insights and building intelligent 
 ---
 
 ## 🌱 **What I’m Learning**  
-- **Machine Learning**: Exploring advanced algorithms, NLP techniques, and MLOps workflows (currently enrolled in [Udemy Bootcamp](https://udemy.com/course-link)).  
 - **Data Analysis & Visualization**: Mastering Python libraries like Pandas, NumPy, Matplotlib, and Seaborn.  
 - **Cloud & Tools**: Gaining hands-on experience with TensorFlow, Tableau, AWS, and GCP.  
 
