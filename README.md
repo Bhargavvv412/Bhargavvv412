@@ -51,5 +51,3 @@ Feel free to reach out for collaborations, discussions, or just a chat!
 - Build and deploy a full-stack MLOps project by the end of 2024.  
 
 ---
-
-*Made with ❤️ and Markdown. Feel free to fork this template!*  
