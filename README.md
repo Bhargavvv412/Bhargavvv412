@@ -2,7 +2,7 @@
 <!-- ![GitHub Banner](https://user-images.githubusercontent.com/12345678/123456789-01234567-8a1b-4a1c-9d3e-5f6a7b8c9d0e.png) --> <!-- Add a banner image if you like -->
 
 # 👋 Hi, I'm Bhargav!  
-**Second-year BTech student** in **Artificial Intelligence and Machine Learning** 🤖  
+**Third-year BTech student** in **Artificial Intelligence and Machine Learning** 🤖  
 Passionate about turning data into actionable insights and building intelligent systems that solve real-world problems.
 
 ---
