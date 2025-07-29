@@ -35,6 +35,7 @@ Passionate about turning data into actionable insights and building intelligent 
 ## 📈 **Progress**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhargavvv412&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhargavvv412&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
