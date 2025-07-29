@@ -41,7 +41,7 @@ Passionate about turning data into actionable insights and building intelligent 
 
 ## 📫 **Let’s Connect!**  
 Feel free to reach out for collaborations, discussions, or just a chat!  
-- **Email**: bhargavvv412@gmail.com  
+- **Email**: bhargav.gajera.412@gmail.com  
 - **Portfolio**: [Coming Soon!]  
 
 ---
