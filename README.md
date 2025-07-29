@@ -36,7 +36,6 @@ Passionate about turning data into actionable insights and building intelligent 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhargavvv412&theme=dark)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhargavvv412&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavvv412&layout=pie)](https://github.com/Bhargavvv412/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bhargavvv412)](https://github.com/Bhargavvv412/github-readme-stats)
 
 ---
 
