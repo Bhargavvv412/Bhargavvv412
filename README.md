@@ -34,7 +34,6 @@ Passionate about turning data into actionable insights and building intelligent 
 
 ## 📈 **Progress**  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bhargavvv412&theme=dark)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhargavvv412&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavvv412&layout=pie)](https://github.com/Bhargavvv412/github-readme-stats)
 
 ---
