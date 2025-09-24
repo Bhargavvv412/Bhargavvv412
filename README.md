@@ -34,7 +34,7 @@ Passionate about turning data into actionable insights and building intelligent 
 
 ## 📊 LeetCode Stats
 
-[![LeetCode Heatmap](https://leetcard.jacoblin.cool/Mayank_Chauhan_008?theme=chartreuse&font=Antic&ext=heatmap)](https://leetcode.com/Mayank_Chauhan_008/)
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/Bhargavvv412?theme=chartreuse&font=Antic&ext=heatmap)](https://leetcode.com/Mayank_Chauhan_008/)
 
 ---
 
