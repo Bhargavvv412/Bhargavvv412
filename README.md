@@ -32,6 +32,12 @@ Passionate about turning data into actionable insights and building intelligent 
 
 ---
 
+## 📊 LeetCode Stats
+
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/Mayank_Chauhan_008?theme=chartreuse&font=Antic&ext=heatmap)](https://leetcode.com/Mayank_Chauhan_008/)
+
+---
+
 ## 📈 **Progress**  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bhargavvv412&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavvv412&layout=pie)](https://github.com/Bhargavvv412/github-readme-stats)
