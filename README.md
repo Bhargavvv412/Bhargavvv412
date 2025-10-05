@@ -1,61 +1,68 @@
-<!-- Place this at the top of your README.md -->
-<!-- ![GitHub Banner](https://user-images.githubusercontent.com/12345678/123456789-01234567-8a1b-4a1c-9d3e-5f6a7b8c9d0e.png) --> <!-- Add a banner image if you like -->
+<!-- Add a banner here if you’d like -->
+<!-- ![GitHub Banner](https://user-images.githubusercontent.com/12345678/banner.png) -->
 
 # 👋 Hi, I'm Bhargav!  
-**Third-year BTech student** in **Artificial Intelligence and Machine Learning** 🤖  
-Passionate about turning data into actionable insights and building intelligent systems that solve real-world problems.
+**AI Engineer in Progress | Specializing in Agentic AI, AWS, and DevOps**  
+
+I’m an aspiring AI Engineer passionate about building intelligent, automated systems using **Agentic AI**, **MLOps**, and **Cloud technologies** like **AWS**.  
+I enjoy solving complex real-world problems through data-driven and scalable solutions.
 
 ---
 
-## 🌱 **What I’m Learning**  
-- **Data Analysis & Visualization**: Mastering Python libraries like Pandas, NumPy, Matplotlib, and Seaborn.  
-- **Cloud & Tools**: Gaining hands-on experience with TensorFlow, Tableau, AWS, and GCP.  
+## 🌱 What I’m Learning
+
+- **Agentic AI & LLMs**: Building autonomous AI agents using LangChain and Gemini.  
+- **MLOps & DevOps**: Automating model deployment with Docker, CI/CD, and cloud-native pipelines.  
+- **Cloud Platforms**: Hands-on with AWS (Lambda, S3, EC2) and exploring GCP.  
+- **Core AI/ML**: Strengthening foundations in Python, Machine Learning, and Deep Learning.  
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=Bhargavvv412&color=green)
 
-## 💻 **Skills**  
+## 💻 Skills
 
-| **Languages**          | **Tools & Frameworks**   | **Domains**              |
-|-------------------------|--------------------------|--------------------------|
-| Python (Pandas, NumPy)  | Jupyter Notebooks        | Machine Learning         |
-| SQL (Basics)            | TensorFlow, Scikit-learn | Data Analysis            |
-|                         | Excel, GitHub            | NLP (Beginner)           |
-
----
-
-## 🚀 **Projects**  
-> *Check out my repositories for code and documentation!*  
-
-- **End-to-End ML Pipeline**: Built a predictive model using Scikit-learn and performed exploratory data analysis (EDA).  
-- **Data Visualization Dashboard**: Analyzed a dataset using Matplotlib, Seaborn, and Excel to create insightful visualizations.  
-- **Basic ML Models Repo**: Experimented with regression and classification models (view on [GitHub](https://github.com/Bhargavvv412)).  
+🧠 **Languages:** Python, SQL, Bash  
+⚙️ **Frameworks & Tools:** LangChain, TensorFlow, Scikit-learn, Docker, GitHub Actions, Streamlit  
+☁️ **Cloud & Systems:** AWS (S3, EC2, Lambda), GCP  
+🤖 **Domains:** Agentic AI, Machine Learning, MLOps, DevOps  
 
 ---
 
-## 📊 LeetCode Stats
+## 🚀 Projects  
 
+🚧 *Currently working on building end-to-end MLOps and Agentic AI projects — stay tuned!*  
+
+---
+
+## 📊 LeetCode Stats  
 [![LeetCode Heatmap](https://leetcard.jacoblin.cool/Bhargavvv412?theme=chartreuse&font=Antic&ext=heatmap)](https://leetcode.com/Mayank_Chauhan_008/)
 
 ---
 
-## 📈 **Progress**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bhargavvv412&theme=dark)](https://git.io/streak-stats)
+## 📈 Progress  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bhargavvv412&theme=dark)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavvv412&layout=pie)](https://github.com/Bhargavvv412/github-readme-stats)
 
 ---
 
-## 📫 **Let’s Connect!**  
-Feel free to reach out for collaborations, discussions, or just a chat!  
-- **Email**: bhargav.gajera.412@gmail.com  
-- **Portfolio**: [Coming Soon!]  
+## 📫 Let’s Connect  
+
+💼 **LinkedIn:** [Bhargav Gajera](https://www.linkedin.com/in/bhargav-gajera-5022a0378/)  
+💻 **GitHub:** [Bhargavvv412](https://github.com/Bhargavvv412)  
+📧 **Email:** bhargav.gajera.412@gmail.com  
+🌐 **Portfolio:** *Coming Soon!*  
 
 ---
 
-## 🌟 **Goals**  
-- Contribute to impactful open-source ML projects.  
-- Publish technical blogs on Medium to document and share my learning journey.  
-- Build and deploy a full-stack MLOps project by the end of 2024.  
+## 🌟 Goals  
+
+- Build and deploy an **end-to-end MLOps + Agentic AI project**.  
+- Contribute to **open-source AI tools and frameworks**.  
+- Publish **technical blogs** documenting my AI journey.  
+- Strengthen **AWS and DevOps automation** for scalable AI systems.  
 
 ---
+
+⭐ *“Learning never stops — each line of code brings me closer to intelligent automation.”*  
