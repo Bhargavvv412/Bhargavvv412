@@ -13,6 +13,8 @@ Passionate about turning data into actionable insights and building intelligent 
 
 ---
 
+![](https://komarev.com/ghpvc/?username=Bhargavvv412&color=green)
+
 ## 💻 **Skills**  
 
 | **Languages**          | **Tools & Frameworks**   | **Domains**              |
