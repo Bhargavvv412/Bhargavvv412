@@ -1,8 +1,5 @@
 <!-- Add a banner here if you’d like -->
 <!-- ![GitHub Banner](https://user-images.githubusercontent.com/12345678/banner.png) -->
-
-<img src="https://raw.githubusercontent.com/BhargavGajera/BhargavGajera/master/name.svg" alt="Marton Lederer" />
-
 # 👋 Hi, I'm Bhargav!  
 **AI Engineer in Progress | Specializing in Agentic AI, AWS, and DevOps**  
 
