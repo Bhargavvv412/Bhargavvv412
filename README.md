@@ -1,6 +1,8 @@
 <!-- Add a banner here if you’d like -->
 <!-- ![GitHub Banner](https://user-images.githubusercontent.com/12345678/banner.png) -->
-# 👋 Hi, I'm Bhargav!  
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/Bhargavvv412/Bhargavvv412/blob/master/gifs/Hi.gif" width="30"></h2>
+</div>
 **AI Engineer in Progress | Specializing in Agentic AI, AWS, and DevOps**  
 
 I’m an aspiring AI Engineer passionate about building intelligent, automated systems using **Agentic AI**, **MLOps**, and **Cloud technologies** like **AWS**.  
