@@ -22,7 +22,7 @@ I enjoy solving complex real-world problems through data-driven and scalable sol
 ![](https://komarev.com/ghpvc/?username=Bhargavvv412&color=green)
 
 ## 💻 Skills
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,pytorch,py,anaconda,aws,c,cpp,cloudflare,docker,express,fastapi,flask,git,github,jquery,mongodb,mysql,netlify,nodejs,notion,npm,opencv,postgres,postman,r,react,sqlite,sklearn,tensorflow,vite,)](https://skillicons.dev)
 🧠 **Languages:** Python, SQL, Bash  
 ⚙️ **Frameworks & Tools:** LangChain, TensorFlow, Scikit-learn, Docker, GitHub Actions, Streamlit  
 ☁️ **Cloud & Systems:** AWS (S3, EC2, Lambda), GCP  
