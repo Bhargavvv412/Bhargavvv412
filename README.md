@@ -42,7 +42,7 @@ I enjoy solving complex real-world problems through data-driven and scalable sol
 ---
 
 ## 📈 Progress  
-
+[![Bhargav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhargavvv412)](https://github.com/Bhargavvv412/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Bhargavvv412&theme=dark)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavvv412&layout=pie)](https://github.com/Bhargavvv412/github-readme-stats)
 
