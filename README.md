@@ -38,21 +38,21 @@ I enjoy solving complex real-world problems through data-driven and scalable sol
 ---
 
 ## 📊 LeetCode Stats  
-[![LeetCode Heatmap](https://leetcard.jacoblin.cool/Bhargavvv412?theme=chartreuse&font=Antic&ext=heatmap)](https://leetcode.com/Mayank_Chauhan_008/)
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/Bhargavvv412?theme=chartreuse&font=Antic&ext=heatmap)](https://leetcode.com/bhargavvv412/)
 
 ---
 
 ## 📈 Progress  
-[![Bhargav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhargavvv412)](https://github.com/Bhargavvv412/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bhargavvv412&theme=dark)](https://git.io/streak-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavvv412&layout=compact)
-![tropy](https://github-profile-trophy.vercel.app/?username=Bhargavvv412&theme=dracula)
+[![Bhargav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhargavvv412)](https://github.com/bhargavvv412/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bhargavvv412&theme=dark)](https://git.io/streak-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavvv412&layout=compact)
+![tropy](https://github-profile-trophy.vercel.app/?username=bhargavvv412&theme=dracula)
 ---
 
 ## 📫 Let’s Connect  
 
 💼 **LinkedIn:** [Bhargav Gajera](https://www.linkedin.com/in/bhargav-gajera-5022a0378/)  
-💻 **GitHub:** [Bhargavvv412](https://github.com/Bhargavvv412)  
+💻 **GitHub:** [Bhargavvv412](https://github.com/bhargavvv412)  
 📧 **Email:** bhargav.gajera.412@gmail.com  
 🌐 **Portfolio:** *Coming Soon!*  
 
